@@ -18,5 +18,6 @@ Relevant publications are
 In case of any doubt, please drop me an email at pro@colletj.fr
 
 Best
+
 Julien
 
