@@ -12,8 +12,8 @@ This can then be statistically analysed (probability to attend at each encounter
 
 Relevant publications are 
   - Collet, J., Patrick, S. & Weimerskirch, H. Albatrosses redirect flight towards vessels at the limit of their visual range. (2015) Marine Ecology Progress Series vol. 526 pp. 199-205 (doi: 10.3354/meps11233)
-  - Collet, J., Patrick, S. & Weimerskirch, H. Behavioural responses to encounter of fishing boats in wandering albatrosses
- (in press), Ecology and Evolution
+  - Collet, J., Patrick, S. C., & Weimerskirch, H. (2017). Behavioral responses to encounter of fishing boats in wandering albatrosses. Ecology and evolution, 7(10), 3335-3347
+  - Collet, J., Patrick, S. C., & Weimerskirch, H. (2017). A comparative analysis of the behavioral response to fishing boats in two albatross species. Behavioral Ecology. (early view)
 
 In case of any doubt, please drop me an email at pro@colletj.fr
 
