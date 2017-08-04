@@ -1,5 +1,10 @@
-##### Functions to establish distance and direction from bird to vessel
-##### Check also Long's package wildlifeDI which is similar but requires adehabitatLT hence projections into 2D geographic system
+##### Functions to establish distance from bird to vessel
+### Here we assume there are many boats in the area
+### and so you can not afford the "one bird - one boat" level of analysis
+### Instead we simply extract for each bird location, the minimum distance to boats
+### among all the boats for which a "simutaneous" (< dt) position is known
+### it won't allow in depth examination of the bird behaviour towards one boat
+### but it certainly tells whether your birds closely overlapped with boats
 
 library(geosphere)
 library(plyr)
